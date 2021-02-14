@@ -1,0 +1,13 @@
+body{
+
+}
+
+.menu{
+    background-color: #ecf0f1;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, .5);
+    padding: 5px 25px;
+    margin: 0 30px;
+}
+.content-text{
+    text-align: justify;
+}
